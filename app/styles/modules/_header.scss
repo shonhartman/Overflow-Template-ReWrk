@@ -1,9 +1,11 @@
 #header {
-  background-color: black;
-  color: #fff;
-  // text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
+  // background-color: black;
+  // background-image: url("https://media.blueapron.com/recipes/1604/c_main_dish_images/20160325-2000-4-6807/2P_031516_3_SpicyPeanutNoodle-7007_Right_splash_feature.jpg");
+  background-repeat: no-repeat;
+  color: $brand-color;
+  text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
   text-align: center;
-  // margin: 0;
+  margin: 0 auto;
   padding: 14em 0 14em 0;
   // cursor: default;
 
@@ -19,7 +21,7 @@
 
         p {
           border-top: solid 1px rgba(255, 255, 255, 0.5);
-  				color: rgba(255, 255, 255, 0.75);
+  				color: $brand-color;
   				// text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.1875);
   				// font-size: 1em;
   				text-transform: uppercase;

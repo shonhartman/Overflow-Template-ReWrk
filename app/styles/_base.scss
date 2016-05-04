@@ -1,0 +1,19 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #666;
+  background-image: url("https://media.blueapron.com/recipes/1604/c_main_dish_images/20160325-2000-4-6807/2P_031516_3_SpicyPeanutNoodle-7007_Right_splash_feature.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center 0;
+  background-attachment: fixed;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 18pt;
+  line-height: 1.75em;
+  font-weight: 300;
+  letter-spacing: 1px;
+  color: #3a3939;
+  text-shadow: 0 0 0.5px rgba(58, 57, 57, 0.25);
+}
