@@ -37,12 +37,8 @@
 		/* Basic */
 
 			body {
-				background-color: #203936;
-				background-image: url("images/overlay.png"), url("../../images/bg-alt.jpg");
-				background-repeat: repeat, no-repeat;
-				background-size: auto, 100% auto;
-				background-position: top left, top center;
-				background-attachment: scroll, scroll;
+				background-color: $brand-color;
+				background-attachment: scroll;
 				font-size: 14pt;
 			}
 
